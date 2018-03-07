@@ -26,7 +26,7 @@ In your own words, explain one reason why we use `this`.
 
 ## What is `this`
 
-In your own words explain `this`.
+In your own words, explain `this`.
 
 ```md
 <!-- your answer here -->
@@ -34,7 +34,7 @@ In your own words explain `this`.
 
 ## What is a prototype
 
-In your own words explain what a prototype is.
+In your own words, explain what a prototype is.
 
 ```md
 <!-- your answer here -->

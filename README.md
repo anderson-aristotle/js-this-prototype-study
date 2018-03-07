@@ -4,9 +4,9 @@
 
 ## Prerequisites
 
-- [JS-Objects](https://git.generalassemb.ly/ga-wdi-boston/js-objects)
-- [JS-Reference](https://git.generalassemb.ly/ga-wdi-boston/js-reference-types)
-- [JS-Basics](https://git.generalassemb.ly/ga-wdi-boston/js-basics)
+- [js-objects-this](https://git.generalassemb.ly/ga-wdi-boston/js-objects-this)
+- [js-reference-types](https://git.generalassemb.ly/ga-wdi-boston/js-reference-types)
+- [js](https://git.generalassemb.ly/ga-wdi-boston/js)
 
 ## Objectives
 

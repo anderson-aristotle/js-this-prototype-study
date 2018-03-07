@@ -13,7 +13,7 @@
 By the end of this, developers should be able to:
 
 - Cite at least one reason as to why we use prototypes.
-- Cite at least one reason as to why we use "this".
+- Cite at least one reason as to why we use `this`.
 
 ## Instructions
 

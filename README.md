@@ -4,9 +4,9 @@
 
 ## Prerequisites
 
-- [JS-Objects](https://github.com/ga-wdi-boston/js-objects)
-- [JS-Reference](https://github.com/ga-wdi-boston/js-reference-types)
-- [JS-Basics](https://github.com/ga-wdi-boston/js-basics)
+- [JS-Objects](https://git.generalassemb.ly/ga-wdi-boston/js-objects)
+- [JS-Reference](https://git.generalassemb.ly/ga-wdi-boston/js-reference-types)
+- [JS-Basics](https://git.generalassemb.ly/ga-wdi-boston/js-basics)
 
 ## Objectives
 
@@ -23,10 +23,11 @@ By the end of this, developers should be able to:
 1. Follow the directions given in [`study.md`](study.md).
 1. When finished, push to your fork and submit a pull request.
 
-You may wish to refer to [FAQs](https://github.com/ga-wdi-boston/meta/wiki/)
-related to [forking,
-cloning](https://github.com/ga-wdi-boston/meta/wiki/ForkAndClone), and [pull
-requests](https://github.com/ga-wdi-boston/meta/wiki/PullRequest).
+You may wish to refer to [FAQs](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/)
+related to
+[forking, cloning](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/ForkAndClone),
+and
+[pull requests](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/PullRequest).
 
 ## [License](LICENSE)
 

@@ -18,8 +18,7 @@ material. Instead, digest what you've read and repeat it in your own voice.
 
 ## `this` in Context
 
-In your own words, explain one reason why we use `this`. In your answer, be
-sure to cite any relevant sources you consulted in your search.
+In your own words, explain one reason why we use `this`.
 
 ```md
 <!-- your answer here -->
@@ -27,8 +26,7 @@ sure to cite any relevant sources you consulted in your search.
 
 ## `this` is what
 
-In your own words explain `this`.  In your answer, be
-sure to cite any relevant sources you consulted in your search.
+In your own words explain `this`.
 
 ```md
 <!-- your answer here -->
@@ -36,8 +34,7 @@ sure to cite any relevant sources you consulted in your search.
 
 ## A Prototype is what
 
-In your own words explain what a prototype is.  In your answer, be
-sure to cite any relevant sources you consulted in your search.
+In your own words explain what a prototype is.
 
 ```md
 <!-- your answer here -->

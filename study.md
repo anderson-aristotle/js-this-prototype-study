@@ -21,7 +21,7 @@ material. Instead, digest what you've read and repeat it in your own voice.
 In your own words, explain one reason why we use `this`.
 
 ```md
-<!-- your answer here -->
+  this.objName makes it clear what `this` refers too.
 ```
 
 ## What is `this`
@@ -29,7 +29,7 @@ In your own words, explain one reason why we use `this`.
 In your own words, explain `this`.
 
 ```md
-<!-- your answer here -->
+`This` is a reference to the most closest related object to invoke.
 ```
 
 ## What is a prototype
@@ -37,5 +37,6 @@ In your own words, explain `this`.
 In your own words, explain what a prototype is.
 
 ```md
-<!-- your answer here -->
+Most objects are prototypes because they could and often do inherit methods and properties.
+
 ```
